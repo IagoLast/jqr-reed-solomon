@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jqr-gf": "^0.0.0",
+    "jqr-poly": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.0",
+    "eslint-config-iagolast": "^1.0.0",
+    "mocha": "^4.0.1"
+  }
+}
