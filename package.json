@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "jqr-gf": "^0.0.0",
-    "jqr-poly": "^1.0.0"
+    "jqr-gf": "^0.1.0",
+    "jqr-poly": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "^4.13.0",

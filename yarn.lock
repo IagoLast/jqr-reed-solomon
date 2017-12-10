@@ -481,19 +481,15 @@ isexe@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
 
-jqr-gf@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/jqr-gf/-/jqr-gf-0.0.0.tgz#7a85786ed997ce8e85399832953284f35fd9e398"
+jqr-gf@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/jqr-gf/-/jqr-gf-0.1.0.tgz#c73ecc4e38c251f686647d9beb8f068eccb42fce"
   dependencies:
-    jqr-poly "0.0.2"
+    jqr-poly "^1.1.0"
 
-jqr-poly@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/jqr-poly/-/jqr-poly-0.0.2.tgz#bc8171b560c1a45f1d69ffd4421adb5742087e59"
-
-jqr-poly@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/jqr-poly/-/jqr-poly-1.0.0.tgz#5397e5e6b7feff16111a6fefa91b5b5c622343a1"
+jqr-poly@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/jqr-poly/-/jqr-poly-1.1.0.tgz#eb7c9445d129ccdda7ceedb3a322bbda6c8a7cab"
 
 js-tokens@^3.0.2:
   version "3.0.2"
